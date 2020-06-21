@@ -1,0 +1,4 @@
+# Needed packages/versions
+mibian == 0.1.3
+numpy
+scipy
